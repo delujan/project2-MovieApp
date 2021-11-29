@@ -1,7 +1,6 @@
 # Movie Ticketing Application
 
 ## Description
-This was a group project consisting of 3 people. While the project was a collaborative effort, each had a primary focus of frontend, backend, or testing.
 
 This application allows a New User to first, register an account. After registering, they can login and view available Movies and Showtimes at the local Theater. The Customer can then select a Movie to watch at their preferred time, given there are available seats for their selection.
 
@@ -42,3 +41,8 @@ This application allows a New User to first, register an account. After register
 11. Register an account. (or follow step 12)
 12. Login with your created credentials (from step 11) or use the following credentials: <br/>
 Customer Login:  email = test@gmail.com | password = test123 <br/>
+
+## Contributors
+Steven Salmeron: Handled the BackEnd code
+Andrew Durkin: Handled the FrontEnd code
+David Lujan(Myself): Handled the Testing code
