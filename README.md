@@ -1,0 +1,45 @@
+# Movie Ticketing Application
+
+## Description
+This was a group project consisting of 3 people. While the project was a collaborative effort, each had a primary focus of frontend, backend, or testing.
+
+This application allows a New User to first, register an account. After registering, they can login and view available Movies and Showtimes at the local Theater. The Customer can then select a Movie to watch at their preferred time, given there are available seats for their selection.
+
+
+## Technologies Used
+- Java 1.8
+- Angular 12.2.11
+- Lombok
+- PostgreSQL 42.2.24
+- Maven 4.0
+- JUnit4 5.6.2
+- Mockito 2.21
+- Selenium
+- Cucumber / Gherkin
+
+## Features
+- Registration
+- Login, Logout
+- View Movie Selection
+- View Showtimes for each Movie
+- Get tickets for selected Movie at the selected Showtime
+
+### To-do List
+- Reset password feature
+- Refund purchase feature
+
+## Getting Started
+1. Fork the repository:
+2. Navigate to desired folder location on local machine
+3. Run Git Bash from this location
+4. Clone the forked repository: git clone yourForkedRepositoryName
+5. Open Spring Boot IDE (preferred) and import the backend portion of the project
+6. Open VS Code (perferred) and open the frontend portion of the project
+7. If Angular is not installed, run the command on the CLI: npm install -g @angular/cli
+8. Start the backend portion by navigating to Projet2Application.java, right-click and select 'Run as Spring Boot App'
+6. Start the frontend portion in VS Code by using the CLI command: ng serve --open
+10. Navigate to localhost:4200 on desired web browser
+11. Login with the following credentials: <br/>
+Customer Login:  email = test@gmail.com | password = test123 <br/>
+
+## Usage
