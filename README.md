@@ -39,7 +39,6 @@ This application allows a New User to first, register an account. After register
 8. Start the backend portion by navigating to Projet2Application.java, right-click and select 'Run as Spring Boot App'
 6. Start the frontend portion in VS Code by using the CLI command: ng serve --open
 10. Navigate to localhost:4200 on desired web browser
-11. Login with the following credentials: <br/>
+11. Register an account. (or follow step 12)
+12. Login with your created credentials (from step 11) or use the following credentials: <br/>
 Customer Login:  email = test@gmail.com | password = test123 <br/>
-
-## Usage
