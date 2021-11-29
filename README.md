@@ -43,6 +43,6 @@ This application allows a New User to first, register an account. After register
 Customer Login:  email = test@gmail.com | password = test123 <br/>
 
 ## Contributors
-Steven Salmeron: Handled the BackEnd code
-Andrew Durkin: Handled the FrontEnd code
-David Lujan(Myself): Handled the Testing code
+Steven Salmeron: Handled the BackEnd code <br/>
+Andrew Durkin: Handled the FrontEnd code <br/>
+David Lujan(Myself): Handled the Testing code <br/>
