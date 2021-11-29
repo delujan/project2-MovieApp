@@ -42,6 +42,21 @@ This application allows a New User to first, register an account. After register
 12. Login with your created credentials (from step 11) or use the following credentials: <br/>
 Customer Login:  email = test@gmail.com | password = test123 <br/>
 
+## Usage
+Start both the backend and front end of the application:
+
+![Main_BackEnd](./P2Screenshots/P2BackEndMain.png) <br/>
+![FrontEnd_Command](./P2Screenshots/P2FrontEndCommand.png)
+
+Register an account:
+
+![Registration](./P2Screenshots/P2RegistrationPage.png)
+
+Login to the newly created account:
+
+![Login](./P2Screenshots/P2LoginPage.png)
+
+
 ## Contributors
 Steven Salmeron: Handled the BackEnd code <br/>
 Andrew Durkin: Handled the FrontEnd code <br/>
