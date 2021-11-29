@@ -25,6 +25,7 @@ This application allows a New User to first, register an account. After register
 
 ### To-do List
 - Reset password feature
+- Complete profile feature
 - Refund purchase feature
 
 ## Getting Started
@@ -48,6 +49,10 @@ Start both the backend and front end of the application:
 ![Main_BackEnd](./P2Screenshots/P2BackEndMain.png) <br/>
 ![FrontEnd_Command](./P2Screenshots/P2FrontEndCommand.png)
 
+Open a browser of your choice and navigate to: localhost:4200
+
+![HomePage](./P2Screenshots/P2HomePage.png)
+
 Register an account:
 
 ![Registration](./P2Screenshots/P2RegistrationPage.png)
@@ -55,6 +60,13 @@ Register an account:
 Login to the newly created account:
 
 ![Login](./P2Screenshots/P2LoginPage.png)
+
+Booking page:
+![Booking](./P2Screenshots/P2BookingForm.png)
+
+Profile page:
+![Profile](./P2Screenshots/P2ProfilePage.png)
+
 
 
 ## Contributors
