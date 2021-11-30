@@ -29,11 +29,11 @@ This application allows a New User to first, register an account. After register
 - Refund purchase feature
 
 ## Getting Started
-1. Fork the repository:
+1. Fork the repository: https://github.com/delujan/project2-MovieApp.git
 2. Navigate to desired folder location on local machine
 3. Run Git Bash from this location
 4. Clone the forked repository: git clone yourForkedRepositoryName
-5. Open Spring Boot IDE (preferred) and import the backend portion of the project
+5. Open Spring Boot IDE (preferred) and import the backend portion of the project from the 'backend' branch
 6. Open VS Code (perferred) and open the frontend portion of the project
 7. If Angular is not installed, run the command on the CLI: npm install -g @angular/cli
 8. Start the backend portion by navigating to Projet2Application.java, right-click and select 'Run as Spring Boot App'
